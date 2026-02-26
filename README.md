@@ -1,6 +1,6 @@
 # word_counter_repo 🎯
 
-just a tiny repo where i threw together a word-count script because why not. 22-year-old me is vibing with python and terminal stuff.
+just a tiny repo where i threw together a word-count script because why not. Im just vibing with python and terminal stuff.
 
 ## what's inside
 
